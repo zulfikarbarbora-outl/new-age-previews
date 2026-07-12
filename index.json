@@ -1,0 +1,208 @@
+{
+  "library": "New Age Pad",
+  "description": "New-age evolving pad synth from freepats",
+  "license": "CC0-1.0",
+  "author": "freepats.zenvoid.org",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/new-age",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/new-age-previews",
+  "branch": "main",
+  "fileCount": 16,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/",
+  "files": [
+    {
+      "file": "C2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C2.mp3",
+      "size": 145074,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C3.mp3",
+      "size": 144656,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C4.mp3",
+      "size": 121251,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C5.mp3",
+      "size": 97427,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C6.mp3",
+      "size": 84888,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/C7.mp3",
+      "size": 85724,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/E2.mp3",
+      "size": 136715,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/E3.mp3",
+      "size": 137133,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/E4.mp3",
+      "size": 111220,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/E5.mp3",
+      "size": 92830,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "E6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/E6.mp3",
+      "size": 84888,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs2.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/Gs2.mp3",
+      "size": 142149,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs3.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/Gs3.mp3",
+      "size": 126266,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs4.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/Gs4.mp3",
+      "size": 94501,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs5.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/Gs5.mp3",
+      "size": 84052,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Gs6.mp3",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/new-age-previews/main/Gs6.mp3",
+      "size": 81963,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2.mp3"
+    ],
+    "40": [
+      "E2.mp3"
+    ],
+    "48": [
+      "C3.mp3"
+    ],
+    "52": [
+      "E3.mp3"
+    ],
+    "60": [
+      "C4.mp3"
+    ],
+    "64": [
+      "E4.mp3"
+    ],
+    "72": [
+      "C5.mp3"
+    ],
+    "76": [
+      "E5.mp3"
+    ],
+    "84": [
+      "C6.mp3"
+    ],
+    "88": [
+      "E6.mp3"
+    ],
+    "96": [
+      "C7.mp3"
+    ]
+  }
+}
